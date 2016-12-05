@@ -1,0 +1,17 @@
+{
+  "name": "gulp-sass-import",
+  "description": "Define a default file to import from a directory path",
+  "version": "1.0.0",
+  "homepage": "http://github.com/liamhegenbarth/gulp-sass-import",
+  "repository": "git://github.com/liamhegenbarth/gulp-sass-import.git",
+  "author": "Liam Hegenbarth <mail@liamhegenbarth.co.uk> (http://www.liamhegenbarth.co.uk/)",
+  "main": "./index.js",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+  	"gulp-util": "^3.0.2",
+    "through2": "^0.6.3"
+  }
+}
